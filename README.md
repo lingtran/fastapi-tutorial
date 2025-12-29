@@ -29,3 +29,6 @@ _Prerequisites:_
 
 ### With FastAPI - `fastapi dev main.py`
 Runs the live server
+
+#### [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+Automatic, interactive documentation (integrating Swagger UI)
